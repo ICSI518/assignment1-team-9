@@ -20,7 +20,7 @@ function divide(a, b) {
 // Example usage
 // Function to add two numbers
 function add(a, b) {
-  // return a + b;
+   return a + b;
 }
 
 // Example by dileep
