@@ -1,3 +1,4 @@
+// Function to divide two numbers by Avi and shravani
 
 // Function to multiply two numbers
 function multiply(a, b) {
@@ -31,3 +32,6 @@ console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 
 console.log(`Subtraction: ${a} - ${b} = ${subtract(a, b)}`);
 console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
+
+
+console.log(`Division: ${a} / ${b} = ${divide(a, b)}`);
