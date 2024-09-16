@@ -16,7 +16,7 @@ function multiply(a, b) {
 }
 
 // Function to divide two numbers by Avi and shravani
-function divide(a, b) {
+function divide(a, b)  {
    if (b === 0) {
    return "Error: Division by zero";
    }
