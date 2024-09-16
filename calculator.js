@@ -11,6 +11,12 @@ function subtract(a, b) {
 }
 
 // Example usage
+// Function to add two numbers
+function add(a, b) {
+  // return a + b;
+}
+
+// Example by dileep
 const a = 10;
 const b = 5;
 
@@ -18,3 +24,4 @@ const b = 5;
 console.log(`Multiplication: ${a} * ${b} = ${multiply(a, b)}`);
 
 console.log(`Subtraction: ${a} - ${b} = ${subtract(a, b)}`);
+console.log(`Addition: ${a} + ${b} = ${add(a, b)}`);
